@@ -1,3 +1,5 @@
+> This project has been forker "in case of" but is not actively used.
+
 # aws-codebuild-extras 
 Add extra information of your AWS CodeBuild build via environment variables.
 
